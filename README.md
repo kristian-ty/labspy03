@@ -47,7 +47,8 @@ Tugas Praktikum 3
 
 ![Diagram Tanpa Judul drawio (4)](https://github.com/user-attachments/assets/90e0d22d-006f-4b8e-9d91-08d56755b83d)
 
-![333333](https://github.com/user-attachments/assets/4968a780-75af-4f6c-816f-4d2db8807b9a)
+![Ca](https://github.com/user-attachments/assets/6b844bf0-ece7-4aaf-ad78-5f5a7bfcbe99)
+
 
 Fungsi hitung_lababiasanya 
    pada sebuah fungsi dalam pemrograman yang digunakan untuk menghitung laba dari suatu usaha atau investasi. Fungsi ini dapat menerima beberapa parameter, seperti modal awal,
