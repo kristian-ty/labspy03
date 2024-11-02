@@ -41,3 +41,5 @@ else:
    Setelah putaran berakhir (ketika pengguna memasukkan 0), program akan memeriksa apakah max_numbertelah ditetapkan ke nilai apa pun (artinya pengguna memasukkan setidaknya satu angka).
 Jika max_numberbukan None, ia akan mencetak angka terbesar.
 Jika max_numbermasih None, berarti pengguna tidak memasukkan angka apa pun, sehingga program akan mencetak pesan yang menyatakan tidak ada angka yang dimasukkan.
+![33333](https://github.com/user-attachments/assets/f299c9dc-4ef8-4828-8707-da5e219b9b02)
+
