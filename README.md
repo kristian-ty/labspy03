@@ -43,3 +43,22 @@ Jika max_numberbukan None, ia akan mencetak angka terbesar.
 Jika max_numbermasih None, berarti pengguna tidak memasukkan angka apa pun, sehingga program akan mencetak pesan yang menyatakan tidak ada angka yang dimasukkan.
 ![33333](https://github.com/user-attachments/assets/f299c9dc-4ef8-4828-8707-da5e219b9b02)
 
+Tugas Praktikum 3
+
+![Diagram Tanpa Judul drawio (4)](https://github.com/user-attachments/assets/90e0d22d-006f-4b8e-9d91-08d56755b83d)
+
+![333333](https://github.com/user-attachments/assets/4968a780-75af-4f6c-816f-4d2db8807b9a)
+
+Fungsi hitung_lababiasanya 
+   pada sebuah fungsi dalam pemrograman yang digunakan untuk menghitung laba dari suatu usaha atau investasi. Fungsi ini dapat menerima beberapa parameter, seperti modal awal,
+1. Definisi dan Struktur Fungsihitung_laba
+  1. Definisi Umum :
+      Fungsi hitung_labaadalah suatu blok kode yang dirancang untuk melakukan perhitungan laba berdasarkan input yang diberikan. Fungsi ini dapat digunakan untuk mengotomatisasi perhitungan laba dalam berbagai konteks, seperti investasi, usaha dagang, atau proyek tertentu.
+2. Parameter : Fungsi ini mungkin memiliki beberapa parameter, seperti:
+modal : Jumlah investasi awal.
+persentase : Persentase laba yang diperoleh setiap periode.
+period : Jumlah periode waktu (misalnya bulan) untuk menghitung laba.
+3. Proses
+ laba=modal:persentase/100
+4. Output : Fungsi ini akan mengembalikan total laba yang dihitung selama periode yang ditentukan.
+ 
