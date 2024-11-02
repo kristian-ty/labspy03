@@ -45,7 +45,8 @@ Jika max_numbermasih None, berarti pengguna tidak memasukkan angka apa pun, sehi
 
 Tugas Praktikum 3
 
-![Diagram Tanpa Judul drawio (4)](https://github.com/user-attachments/assets/90e0d22d-006f-4b8e-9d91-08d56755b83d)
+![Diagram Tanpa Judul drawio (5)](https://github.com/user-attachments/assets/f67f6a0b-ad72-42ef-9da2-ba1d7d567e12)
+
 
 ![Ca](https://github.com/user-attachments/assets/6b844bf0-ece7-4aaf-ad78-5f5a7bfcbe99)
 
